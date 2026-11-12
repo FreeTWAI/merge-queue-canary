@@ -9,3 +9,5 @@ release design elsewhere can be decided on evidence:
 - Which actor, sender and committer a queue-produced push to `main` carries.
 
 It is not a product, has no secrets and deploys nothing. It will be archived after the test.
+
+Canary PR 1: benign documentation change used to exercise the queue.
